@@ -4,7 +4,7 @@
 
 ### Cloud & DevOps Enthusiast | AWS | Linux | Docker | Kubernetes | Terraform | CI/CD
 
-<img src="./banner.svg" alt="Aditi - Cloud & DevOps" width="100%"/>
+<img src="https://raw.githubusercontent.com/aditi20-k/aditi20-k/main/banner.svg" alt="Aditi Kapoor - Cloud & DevOps" width="100%"/>
 
 </div>
 
