@@ -81,15 +81,6 @@ Infrastructure automation practice covering Terraform configuration, AWS resourc
 
 ---
 
-### 🔹 Agentic AI Practice
-Exploring AI-assisted development and automation workflows while building practical DevOps-oriented projects.
-
-**Tech:** Python, AI/Agent workflows
-
-🔗 **Repository:** [agentic-ai-practice1](https://github.com/aditi20-k/agentic-ai-practice1)
-
----
-
 ## 📈 What I'm Building Right Now
 
 ```text
