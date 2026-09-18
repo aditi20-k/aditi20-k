@@ -1,163 +1,158 @@
-# Hi there 👋, I'm Aditi Kapoor
+<div align="center">
 
-### Cloud & DevOps Enthusiast | AWS | Linux | Docker | Git & GitHub | CI/CD Learner
+# Hi 👋, I'm Aditi Kapoor
 
-<img align="right" alt="Cloud Engineer" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3p5dWF3YzN0Y3Q0MXNtbmQ3N3U5eWxvOW0wdzFqNTR4eTR5emVwYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+### Cloud & DevOps Enthusiast | AWS | Linux | Docker | Kubernetes | Terraform | CI/CD
+
+<img src="./banner.svg" alt="Aditi Kapoor - Cloud & DevOps" width="100%"/>
+
+</div>
+
+---
 
 ## 👩‍💻 About Me
 
-🎓 Bachelor of Engineering (Computer Science & Engineering)
+🎓 **B.E. in Computer Science & Engineering — Chitkara University, 2026**
 
-☁️ Passionate about Cloud Computing, DevOps, Automation, and Infrastructure Management
+☁️ Building hands-on skills in **Cloud, DevOps, Infrastructure & Automation**
 
-🚀 Currently building hands-on projects using AWS and modern DevOps tools
+🛠️ Working with **AWS, Linux, Git/GitHub, Docker, Kubernetes, Jenkins and Terraform**
 
-📚 Continuously learning Linux, Docker, CI/CD, Kubernetes, and Cloud Architecture
+🚀 Focused on turning concepts into **real projects and practical deployments**
 
-💡 Interested in designing scalable, reliable, and automated systems
+📚 Currently exploring **Prometheus, Grafana and modern DevOps workflows**
 
----
-
-## 🚀 Core Skills
-
-- Cloud Computing (AWS)
-- Linux Administration
-- Docker Containerization
-- CI/CD Pipelines
-- Git & GitHub
-- Shell Scripting
-- Infrastructure Monitoring
-- Networking Fundamentals
-- Deployment Automation
-- Problem Solving
+🎯 Looking for an entry-level **Cloud / DevOps Engineer** opportunity
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### ☁️ Cloud & DevOps
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,docker,kubernetes,jenkins,terraform,python,mysql,html,css,js&perline=7" />
 
-### 💻 Programming & Development
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### 🐧 Operating Systems & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 💼 Featured Projects
+## ☁️ Cloud & DevOps
 
-### ☁️ AWS Infrastructure Deployment
-
-- Created EC2 instances and configured networking
-- Managed IAM users and permissions
-- Configured S3 storage services
-- Implemented load balancing concepts
-
-### 🚀 Cloud Learning Journey
-
-- Hands-on practice with AWS services
-- Infrastructure setup and monitoring
-- Cloud security and access management
-
-### 🤖 Credit Card Fraud Detection
-
-- Built a Machine Learning model for fraud prediction
-- Data preprocessing and model evaluation
-- Python-based implementation
-
-### 🧠 MindEase
-
-- Mental health consultation platform
-- Developed using HTML, CSS, JavaScript, and Python
-- User-friendly and responsive interface
+| Area | Hands-on / Learning |
+|---|---|
+| **Cloud** | AWS EC2, S3, IAM, VPC, RDS, ELB, Auto Scaling, CloudWatch |
+| **Containers** | Docker, Docker Compose |
+| **Orchestration** | Kubernetes |
+| **CI/CD** | Jenkins, GitHub Actions concepts |
+| **Infrastructure as Code** | Terraform |
+| **OS & Scripting** | Linux, Bash, Python |
+| **Version Control** | Git & GitHub |
+| **Monitoring** | Prometheus, Grafana |
+| **Networking** | VPC, Subnets, Route Tables, Internet Gateway, Load Balancing |
 
 ---
 
-## 📜 Certifications & Learning
+## 🚀 Featured Projects
 
-✅ AWS Cloud Computing
+### 🔹 Trackify — Smart Expense Monitoring System
+A full-stack expense monitoring application with authentication, budgeting and analytics.
 
-✅ Linux Administration
+**Tech:** HTML, CSS, JavaScript, Tailwind CSS, Vite, Express.js, MongoDB
 
-✅ Git & GitHub
-
-✅ Docker Fundamentals
-
-✅ CI/CD Concepts
-
-### 🔄 Currently Learning
-
-- Kubernetes
-- Terraform
-- Advanced AWS Services
-- DevOps Best Practices
+🔗 **Repository:** [Trackify](https://github.com/aditi20-k/Trackify-2211981019)
 
 ---
 
-## 📊 GitHub Analytics
+### 🔹 Docker Practice
+Hands-on containerization practice including building images, running containers and working with Dockerized applications.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+**Tech:** Docker, Linux, Flask
 
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+🔗 **Repository:** [docker-practice](https://github.com/aditi20-k/docker-practice)
 
 ---
 
-## 🌐 Connect With Me
+### 🔹 Terraform & Ansible Master
+Infrastructure automation practice covering Terraform configuration, AWS resources and Ansible-based automation.
 
-<p>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+**Tech:** Terraform, HCL, Ansible, AWS
+
+🔗 **Repository:** [terraform-ansible-master](https://github.com/aditi20-k/terraform-ansible-master)
+
+---
+
+### 🔹 Agentic AI Practice
+Exploring AI-assisted development and automation workflows while building practical DevOps-oriented projects.
+
+**Tech:** Python, AI/Agent workflows
+
+🔗 **Repository:** [agentic-ai-practice1](https://github.com/aditi20-k/agentic-ai-practice1)
+
+---
+
+## 📈 What I'm Building Right Now
+
+```text
+AWS
+ ├── Infrastructure
+ ├── Networking
+ └── Cloud Services
+
+DevOps
+ ├── Linux + Bash
+ ├── Git + GitHub
+ ├── Docker
+ ├── Kubernetes
+ ├── Jenkins
+ └── Terraform
+
+Monitoring
+ ├── Prometheus
+ └── Grafana
+```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aditi20-k&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi20-k&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🌱 Learning Philosophy
+
+> **Learn → Build → Break → Debug → Improve**
+
+I believe the best way to learn DevOps is by working with real infrastructure, troubleshooting failures and continuously improving deployments.
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:kapooraditi2014@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kapooraditi2014%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
+&nbsp;
+<a href="https://github.com/aditi20-k">
+  <img src="https://img.shields.io/badge/GitHub-aditi20--k-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-📧 **Email:** kapooraditi2014@gmail.com
-
----
-
-## 🎯 Career Goal
-
-To start my career as a Cloud/DevOps Engineer and contribute to building scalable, secure, and automated infrastructure solutions while continuously learning modern cloud technologies.
-
-### 💡 Automating Today, Scaling Tomorrow.
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
+
+### ☁️ Automating Today. Scaling Tomorrow.
+
+⭐ *Thanks for visiting my profile!*
+
+</div>
