@@ -138,7 +138,7 @@ I believe the best way to learn DevOps is by working with real infrastructure, t
 <div align="center">
 
 <a href="mailto:kapooraditi2014@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kapooraditi2014%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-aditi.kapoor.cs%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/aditi20-k">
