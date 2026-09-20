@@ -62,6 +62,8 @@ A full-stack expense monitoring application with authentication, budgeting and a
 
 🔗 **Repository:** [Trackify](https://github.com/aditi20-k/Trackify-2211981019)
 
+🌐 **Live Application:** [Trackify](https://trackify-ulmg.onrender.com/)
+
 ---
 
 ### 🔹 CVGlowUp — CV Review & Improvement Platform
