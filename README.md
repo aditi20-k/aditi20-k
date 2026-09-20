@@ -38,46 +38,39 @@
 
 ## ☁️ Cloud & DevOps
 
-| Area | Hands-on / Learning |
-|---|---|
-| **Cloud** | AWS EC2, S3, IAM, VPC, RDS, ELB, Auto Scaling, CloudWatch |
-| **Containers** | Docker, Docker Compose |
-| **Orchestration** | Kubernetes |
-| **CI/CD** | Jenkins, GitHub Actions concepts |
-| **Infrastructure as Code** | Terraform |
-| **OS & Scripting** | Linux, Bash, Python |
-| **Version Control** | Git & GitHub |
-| **Monitoring** | Prometheus, Grafana |
-| **Networking** | VPC, Subnets, Route Tables, Internet Gateway, Load Balancing |
+| Area                       | Hands-on / Learning                                          |
+| -------------------------- | ------------------------------------------------------------ |
+| **Cloud**                  | AWS EC2, S3, IAM, VPC, RDS, ELB, Auto Scaling, CloudWatch    |
+| **Containers**             | Docker, Docker Compose                                       |
+| **Orchestration**          | Kubernetes                                                   |
+| **CI/CD**                  | Jenkins, GitHub Actions concepts                             |
+| **Infrastructure as Code** | Terraform                                                    |
+| **OS & Scripting**         | Linux, Bash, Python                                          |
+| **Version Control**        | Git & GitHub                                                 |
+| **Monitoring**             | Prometheus, Grafana                                          |
+| **Networking**             | VPC, Subnets, Route Tables, Internet Gateway, Load Balancing |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Trackify — Smart Expense Monitoring System
-A full-stack expense monitoring application with authentication, budgeting and analytics.
 
-**Tech:** HTML, CSS, JavaScript, Tailwind CSS, Vite, Express.js, MongoDB
+A full-stack expense monitoring application with authentication, budgeting and analytics. The project is also used to demonstrate containerization and Cloud & DevOps deployment practices.
+
+**Tech:** HTML, CSS, JavaScript, Tailwind CSS, Vite, Express.js, MongoDB, Docker, Jenkins, Kubernetes, AWS
 
 🔗 **Repository:** [Trackify](https://github.com/aditi20-k/Trackify-2211981019)
 
 ---
 
-### 🔹 Docker Practice
-Hands-on containerization practice including building images, running containers and working with Dockerized applications.
+### 🔹 CVGlowUp — CV Review & Improvement Platform
 
-**Tech:** Docker, Linux, Flask
+A CV review and improvement platform that processes PDF and DOCX resumes, analyzes CV content, provides hiring-manager feedback, lets users select suggested improvements, and generates a refined PDF.
 
-🔗 **Repository:** [docker-practice](https://github.com/aditi20-k/docker-practice)
+**Tech:** Python, Streamlit, Google Gemini API, Pydantic, PyPDF, python-docx, Jinja2, WeasyPrint
 
----
-
-### 🔹 Terraform & Ansible Master
-Infrastructure automation practice covering Terraform configuration, AWS resources and Ansible-based automation.
-
-**Tech:** Terraform, HCL, Ansible, AWS
-
-🔗 **Repository:** [terraform-ansible-master](https://github.com/aditi20-k/terraform-ansible-master)
+🔗 **Repository:** [CVGlowUp](https://github.com/aditi20-k/CVglowup)
 
 ---
 
